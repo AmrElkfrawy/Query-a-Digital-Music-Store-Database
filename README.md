@@ -2,4 +2,6 @@
 Udacity Advanced Data Analyst Degree - Project
 
 # Project Overview:
-In this prject , I will write four queries to answer four questions about the Chinook Database to help the Chinook team understand the media in their store, their customers and employees, and their invoice information. The Chinook Database holds information about a music store.
+In this project, I will query the Chinook Database. The Chinook Database holds information about a music store. For this project, I will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. 
+The schema for the Chinook Database is provided below.
+
