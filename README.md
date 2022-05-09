@@ -1,4 +1,4 @@
-# Query-a-Digital-Music-Store-Database
+# Query a Digital Music Store Database
 Udacity Advanced Data Analyst Degree - Project
 
 # Project Overview:
